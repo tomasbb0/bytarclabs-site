@@ -1,4 +1,4 @@
-// Firebase Configuration for The Burnay Lab
+// Firebase Configuration for The Bytarc Lab
 
 const firebaseConfig = {
   apiKey: "AIzaSyAki3QaFgKY0cTWAt2R06c86WimoXRVWKs",

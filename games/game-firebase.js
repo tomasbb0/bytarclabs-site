@@ -1,5 +1,5 @@
 /**
- * Game Firebase Integration — The Burnay Labs
+ * Game Firebase Integration — The Bytarc Labs
  * Add to any game: <script src="../game-firebase.js"></script>
  *
  * URL params:
